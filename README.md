@@ -26,16 +26,17 @@ Este repositório contém exercícios de lógica de programação desenvolvidos 
 ## Estrutura do projeto
 
 src/
-Exercicio01.java
-Exercicio02.java
-Exercicio03.java
-Exercicio04.java
-Exercicio05.java
-Exercicio06.java
-Exercicio07.java
-Exercicio08.java
-Exercicio09.java
-Exercicio10.java
+- Exercicio01.java
+- Exercicio02.java
+- Exercicio03.java
+- Exercicio04.java
+- Exercicio05.java
+- Exercicio06.java
+- Exercicio07.java
+- Exercicio08.java
+- Exercicio09.java
+- Exercicio10.java
+
 
 
 
